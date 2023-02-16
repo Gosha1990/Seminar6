@@ -1,0 +1,15 @@
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.csproj.AssemblyReference.cache
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.AssemblyInfoInputs.cache
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.AssemblyInfo.cs
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.csproj.CoreCompileInputs.cache
+C:\Users\гоша\Desktop\Seminar6\leson2\bin\Debug\net6.0\leson2.exe
+C:\Users\гоша\Desktop\Seminar6\leson2\bin\Debug\net6.0\leson2.deps.json
+C:\Users\гоша\Desktop\Seminar6\leson2\bin\Debug\net6.0\leson2.runtimeconfig.json
+C:\Users\гоша\Desktop\Seminar6\leson2\bin\Debug\net6.0\leson2.dll
+C:\Users\гоша\Desktop\Seminar6\leson2\bin\Debug\net6.0\leson2.pdb
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.dll
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\refint\leson2.dll
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.pdb
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\leson2.genruntimeconfig.cache
+C:\Users\гоша\Desktop\Seminar6\leson2\obj\Debug\net6.0\ref\leson2.dll
