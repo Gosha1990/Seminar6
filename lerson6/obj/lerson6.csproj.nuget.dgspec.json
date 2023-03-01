@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\leson3\\leson3.csproj": {}
+    "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\lerson6\\lerson6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\leson3\\leson3.csproj": {
+    "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\lerson6\\lerson6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\leson3\\leson3.csproj",
-        "projectName": "leson3",
-        "projectPath": "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\leson3\\leson3.csproj",
+        "projectUniqueName": "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\lerson6\\lerson6.csproj",
+        "projectName": "lerson6",
+        "projectPath": "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\lerson6\\lerson6.csproj",
         "packagesPath": "C:\\Users\\гоша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\leson3\\obj\\",
+        "outputPath": "C:\\Users\\гоша\\Desktop\\GeekBrains\\Seminar6\\lerson6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\гоша\\AppData\\Roaming\\NuGet\\NuGet.Config"

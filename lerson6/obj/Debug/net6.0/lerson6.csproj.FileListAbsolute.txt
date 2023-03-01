@@ -1,0 +1,15 @@
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.csproj.AssemblyReference.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.AssemblyInfoInputs.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.AssemblyInfo.cs
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.csproj.CoreCompileInputs.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\bin\Debug\net6.0\lerson6.exe
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\bin\Debug\net6.0\lerson6.deps.json
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\bin\Debug\net6.0\lerson6.runtimeconfig.json
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\bin\Debug\net6.0\lerson6.dll
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\bin\Debug\net6.0\lerson6.pdb
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.dll
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\refint\lerson6.dll
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.pdb
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\lerson6.genruntimeconfig.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\lerson6\obj\Debug\net6.0\ref\lerson6.dll
