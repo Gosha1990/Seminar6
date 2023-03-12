@@ -1,0 +1,15 @@
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\bin\Debug\net7.0\leson9.exe
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\bin\Debug\net7.0\leson9.deps.json
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\bin\Debug\net7.0\leson9.runtimeconfig.json
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\bin\Debug\net7.0\leson9.dll
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\bin\Debug\net7.0\leson9.pdb
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.csproj.AssemblyReference.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.AssemblyInfoInputs.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.AssemblyInfo.cs
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.csproj.CoreCompileInputs.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.dll
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\refint\leson9.dll
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.pdb
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\leson9.genruntimeconfig.cache
+C:\Users\гоша\Desktop\GeekBrains\Seminar6\leson9\obj\Debug\net7.0\ref\leson9.dll
